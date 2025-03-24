@@ -30,7 +30,7 @@
 <ul>
   <li><strong>KPI Cards:</strong> Display the Sum of Sales, Sum of Profit, Average of Discount, and Sum of Quantity.</li>
   <li><strong>Bar Chart:</strong> Shows the Sum of Sales by Sub-Category and Month.</li>
-  <li><strong>Pie Chart:</strong> Represents the Sum of Sales by Category.</li>
+  <li><strong>Donut Chart:</strong> Represents the Sum of Sales by Category.</li>
   <li><strong>Line Chart:</strong> Visualizes the Sum of Sales by Day and Month.</li>
   <li><strong>Table:</strong> Lists Customer Names and their Sum of Sales.</li>
 </ul>
